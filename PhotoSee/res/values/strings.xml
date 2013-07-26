@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">杭电头像查看器</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Title">看看你的证件照</string>
+    <string name="hint">请输入学号</string>
+    <string name="show">点击出现证件照</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+
+</resources>
